@@ -6,7 +6,7 @@ It will allow you to toggle between showing simplified and traditional character
 
 It will be integrated with a dictionary so you can learn more about the words and you will also be able to save words to study.
 
-![Chinese Reader](https://user-images.githubusercontent.com/2054503/65685602-77cb6980-e0b6-11e9-9e05-ab00d1783342.gif
+![Chinese Reader](https://user-images.githubusercontent.com/2054503/65685602-77cb6980-e0b6-11e9-9e05-ab00d1783342.gif)
 
 Next steps
 
