@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://pi-xwy.anonymous.reader.exp.direct",
+  "packagerNgrokUrl": "https://packager.pi-xwy.anonymous.reader.exp.direct",
+  "ngrokPid": 44323,
+  "packagerPort": 19001,
+  "packagerPid": 44314,
+  "webpackServerPort": null
+}
