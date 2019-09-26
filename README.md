@@ -14,3 +14,5 @@ Next steps
 - Allow the user to choose simplified/traditional.
 - Improve the UI.
 - A flick gesture to hide the definitions.
+
+Here is the web version of this reader which has more features https://radicalhanzi.com/posts/dao-de-jing/chapter1
